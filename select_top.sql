@@ -1,1 +1,1 @@
-select top 3 * from <table_name>;
+select * from <table_name> limit 3; -- selects the first three records from the "students" table
